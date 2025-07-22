@@ -1,9 +1,10 @@
 let urls = [
-	'https://blog.cmliussss.com#Cloudflare CDN',
-	'https://fastly.blog.cmliussss.com#Fastly CDN',
-	'https://gcore.blog.cmliussss.com#Gcore CDN',
-	'https://vercel.blog.cmliussss.com#Vercel CDN',
-	'https://netlify.blog.cmliussss.com#Netlify CDN'
+	'https://skin.mxzysoa.top#路线1',
+	'https://skin.mxzy.qzz.io#路线2',
+	'https://skin.cn666.eu.org#备用路线1',
+	'https://skin.lsnworld.dpdns.org#LSN分流路线1',
+	'https://skin.nextlsn.dpdns.org#LSN分流路线2',
+	'https://skin.potatocraft.dpdns.org#PoatoCraft分流路线'
 ];
 
 export default {
