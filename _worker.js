@@ -3,7 +3,6 @@ let urls = [
 	'https://skin.mxzy.qzz.io#路线2',
 	'https://skin.cn666.eu.org#备用路线1',
 	'https://skin.lsnworld.dpdns.org#LSN分流路线1',
-	'https://skin.nextlsn.dpdns.org#LSN分流路线2',
 	'https://skin.potatocraft.dpdns.org#PoatoCraft分流路线'
 ];
 
