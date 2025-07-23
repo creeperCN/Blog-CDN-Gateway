@@ -3,9 +3,7 @@ let urls = [
 	'https://skin-jp.mxzysoa.top#日本路线',
 	'https://skin.mxzysoa.top#cf路线1',
 	'https://skin.mxzy.qzz.io#cf路线2',
-	'https://skin.cn666.eu.org#备用路线1',
-	'https://skin.lsnworld.dpdns.org#LSN分流路线1',
-	'https://skin.potatocraft.dpdns.org#PoatoCraft分流路线'
+	'https://skin.cn666.eu.org#cf路线3'
 ];
 
 export default {
