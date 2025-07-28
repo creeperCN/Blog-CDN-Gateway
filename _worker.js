@@ -2,6 +2,7 @@ let urls = [
 	'https://skin-hk.mxzysoa.top#香港路线',
 	'https://skin-hk3.mxzysoa.top#香港路线3',
 	'https://skin-hk4.mxzysoa.top#香港路线4',
+	'https://eoskin.mxzysoa.top#腾讯云路线',
 	'https://skin-jp.mxzysoa.top#日本路线',
 	'https://skin.mxzysoa.top#cf路线1',
 	'https://skin.mxzy.qzz.io#cf路线2',
